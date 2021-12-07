@@ -2878,12 +2878,19 @@ input, select, textarea {
 				width: 60%;
 			}
 
+
+
+
+/* HOMEPAGE IMAGE COLORS */ 
+
+
+
 			.tiles article:nth-child(6n - 5):before {
 				background-color: #da7531;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #0e886a;
+				background-color: #0d686b;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
